@@ -1,5 +1,5 @@
 
-**welcome to my profile
+**welcome to my profile**
 
 Meu nome é Ana Clara, estou no 2 ano do ensino medio e sou uma estudante do Alura
 
